@@ -6,6 +6,7 @@ const movieSelect = document.getElementById('movie');
 
 populateUI();
 
+
 let ticketPrice = +movieSelect.value;
 
 // Save selected movie index and price
